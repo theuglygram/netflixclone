@@ -29,7 +29,9 @@ const FavShowSection = () => {
           /> */}
         </ImgSection>
         <TextSection>
-          <Title>Download your shows to watch offline.</Title>
+          <Title>
+            CLINTON HAS BEIG HEAD Download your shows to watch offline.
+          </Title>
           <Desc>
             Save your favorites easily and always have something to watch.
           </Desc>
