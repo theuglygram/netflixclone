@@ -1,8 +1,7 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import styled from "styled-components";
 import Slider from "react-slick";
 
-import { useState } from "react/cjs/react.development";
 import axios from "axios";
 
 const Action = () => {
