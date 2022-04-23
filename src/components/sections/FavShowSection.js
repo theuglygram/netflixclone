@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import styled from "styled-components";
 import mobile from "assets/mobile.jpg";
 import { Link } from "react-router-dom";
-import Movies from "components/Pages/Movies";
+
 // import netflix from "assets/netflix.m4v";
 const FavShowSection = () => {
   useEffect(() => {
