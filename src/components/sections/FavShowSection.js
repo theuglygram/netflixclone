@@ -14,7 +14,8 @@ const FavShowSection = () => {
       <HeroWrapper>
         <ImgSection>
           <Link to="/movies">
-            }> <Img src={mobile} />
+            {" "}
+            <Img src={mobile} />
           </Link>
 
           {/* <Vidfile
